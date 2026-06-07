@@ -1,3 +1,4 @@
 DVX-001||oil change and brake tuning||2026-06-07||500||ramesh
 # service update
 DVX-002||Chain lubrications and sprocket cleaning||250||2026-06-07||completed
+DVX-003||Full water wash and Teflon coating||800||2026-06-07||In Progress
